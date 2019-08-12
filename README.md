@@ -1,5 +1,5 @@
 # Linear-Regression-model
 
 ## Software Used
-1 Jupyter Notebook
-1 Flask
+1 Jupyter Notebook/t
+2 Flask
