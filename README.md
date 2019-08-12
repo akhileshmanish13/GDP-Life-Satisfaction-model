@@ -1,4 +1,4 @@
-# Linear-Regression-model
+# GDP Life Satisfaction model
 
 ## Software Used
 ```
