@@ -3,5 +3,6 @@
 ## Software Used
 ```
 1 Jupyter Notebook
-2 Flask
+2 Pyhton
+3 Flask
 ```
