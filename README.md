@@ -1,4 +1,7 @@
-# GDP Life Satisfaction model
+0# GDP Life Satisfaction model
+```
+GDP Life Satisfaction model is Machine Learning based web app. I use Linear regression in this model and obtain 90% accuracy
+```
 
 ## Software Used
 ```
