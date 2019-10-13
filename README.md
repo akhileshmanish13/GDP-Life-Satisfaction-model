@@ -7,5 +7,5 @@
 3 Flask
 ```
 ## Screenshots
-![alt text]()
-![alt text]()
+![alt text](https://github.com/akhileshmanish13/GDP-Life-Satisfaction-model/blob/master/Capture4.PNG)
+![alt text](https://github.com/akhileshmanish13/GDP-Life-Satisfaction-model/blob/master/Capture5.PNG)
